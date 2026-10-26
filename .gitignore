@@ -18,3 +18,5 @@ edith-backup-*/
 *.so.tmp
 
 *.backup-chat-ui
+
+ollama_bridge.py
